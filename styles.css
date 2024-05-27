@@ -1,0 +1,35 @@
+body{
+    background-color: #20352e;
+}
+.heading{
+    color: #4ECCA3;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+p{
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+    color: #4ECCA3;
+}
+.players{
+    text-align: center;
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.p1{
+    padding: 20px;
+    display: inline-block;
+}
+.p2{
+    padding: 20px;
+    display: inline-block;
+}
+.footer{
+    color: white;
+    margin-top: 70px;
+    text-align: center;
+}
